@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PracticaVeterinaria.App.Consola/1.0.0": {
+        "dependencies": {
+          "PracticaVeterinaria.App.Dominio": "1.0.0"
+        },
+        "runtime": {
+          "PracticaVeterinaria.App.Consola.dll": {}
+        }
+      },
+      "PracticaVeterinaria.App.Dominio/1.0.0": {
+        "runtime": {
+          "PracticaVeterinaria.App.Dominio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PracticaVeterinaria.App.Consola/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PracticaVeterinaria.App.Dominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

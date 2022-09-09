@@ -1,0 +1,12 @@
+C:\Users\JUAN CRUZ\Desktop\projects\PracticaVeterinaria\PracticaVeterinaria.App\PracticaVeterinaria.App.Persistencia\bin\Debug\net6.0\PracticaVeterinaria.App.Persistencia.deps.json
+C:\Users\JUAN CRUZ\Desktop\projects\PracticaVeterinaria\PracticaVeterinaria.App\PracticaVeterinaria.App.Persistencia\bin\Debug\net6.0\PracticaVeterinaria.App.Persistencia.dll
+C:\Users\JUAN CRUZ\Desktop\projects\PracticaVeterinaria\PracticaVeterinaria.App\PracticaVeterinaria.App.Persistencia\bin\Debug\net6.0\PracticaVeterinaria.App.Persistencia.pdb
+C:\Users\JUAN CRUZ\Desktop\projects\PracticaVeterinaria\PracticaVeterinaria.App\PracticaVeterinaria.App.Persistencia\obj\Debug\net6.0\PracticaVeterinaria.App.Persistencia.csproj.AssemblyReference.cache
+C:\Users\JUAN CRUZ\Desktop\projects\PracticaVeterinaria\PracticaVeterinaria.App\PracticaVeterinaria.App.Persistencia\obj\Debug\net6.0\PracticaVeterinaria.App.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JUAN CRUZ\Desktop\projects\PracticaVeterinaria\PracticaVeterinaria.App\PracticaVeterinaria.App.Persistencia\obj\Debug\net6.0\PracticaVeterinaria.App.Persistencia.AssemblyInfoInputs.cache
+C:\Users\JUAN CRUZ\Desktop\projects\PracticaVeterinaria\PracticaVeterinaria.App\PracticaVeterinaria.App.Persistencia\obj\Debug\net6.0\PracticaVeterinaria.App.Persistencia.AssemblyInfo.cs
+C:\Users\JUAN CRUZ\Desktop\projects\PracticaVeterinaria\PracticaVeterinaria.App\PracticaVeterinaria.App.Persistencia\obj\Debug\net6.0\PracticaVeterinaria.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\JUAN CRUZ\Desktop\projects\PracticaVeterinaria\PracticaVeterinaria.App\PracticaVeterinaria.App.Persistencia\obj\Debug\net6.0\PracticaVeterinaria.App.Persistencia.dll
+C:\Users\JUAN CRUZ\Desktop\projects\PracticaVeterinaria\PracticaVeterinaria.App\PracticaVeterinaria.App.Persistencia\obj\Debug\net6.0\refint\PracticaVeterinaria.App.Persistencia.dll
+C:\Users\JUAN CRUZ\Desktop\projects\PracticaVeterinaria\PracticaVeterinaria.App\PracticaVeterinaria.App.Persistencia\obj\Debug\net6.0\PracticaVeterinaria.App.Persistencia.pdb
+C:\Users\JUAN CRUZ\Desktop\projects\PracticaVeterinaria\PracticaVeterinaria.App\PracticaVeterinaria.App.Persistencia\obj\Debug\net6.0\ref\PracticaVeterinaria.App.Persistencia.dll
